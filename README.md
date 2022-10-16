@@ -1,3 +1,3 @@
-microcontrollers and music
-Arduino, Teensy, STM32
+microcontrollers and music /n
+Arduino, Teensy, STM32 /n 
 robert.soric@gmail.com
