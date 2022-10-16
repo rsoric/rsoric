@@ -1,5 +1,5 @@
 ## hi!
 
+- embedded software developer
 - microcontrollers and music
-- Arduino, Teensy, STM32 
-- robert.soric@gmail.com
+- Arduino, Teensy, STM32
